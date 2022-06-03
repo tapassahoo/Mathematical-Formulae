@@ -16,7 +16,11 @@ $$ \int\limits_{-\infty}^{\infty} e^{-x^2} \ \mathrm{dx} = \sqrt{\pi} $$
 
 $$ \int\limits_{-\infty}^{\infty} e^{-a(x+b)^2} \ \mathrm{dx} = \sqrt{\tfrac{\pi}{a}} $$
 
-- 
+- [X] Error function
+
+$$ \mathrm{erf \ z}=\dfrac{2}{\sqrt{\pi}}\int \limits_0^{z} e^{-t^2}\mathrm{dt} $$ 
+
+$$ \mathrm{erfc \ z}=1-\mathrm{erf \ z} $$ 
 
 - [X] Gamma function
 
