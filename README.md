@@ -1,4 +1,6 @@
 # Mathematical-Formulae
 Frequently used mathematical formulae
 
-$$\int uv \ \mathrm{dx}=u\int v \ \mathrm{dx}-\int (\dfrac{\mathrm{du}}{\mathrm{dx}}\int v \  \mathrm{dx})\mathrm{dx}$$
+- [X] Integration by parts
+
+$$\int uv \ \mathrm{dx}=u\int v \ \mathrm{dx}-\int \left(\dfrac{\mathrm{du}}{\mathrm{dx}}\int v \  \mathrm{dx}\right)\mathrm{dx}$$
