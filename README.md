@@ -2,10 +2,11 @@
 Frequently used mathematical formulae
 ----
 
-- [X] Basic integration formulae
-
-$$ \int \ x^n \ \mathrm{dx} =  \tfrac{x^{n+1}}{n+1}+C $$
-
+1. Integrals of Rational and Irrational Functions
+   $$\int x^{n} d x=\frac{x^{n+1}}{n+1}+C$$
+   $$\int \frac{1}{x} d x=\ln |x|+C $$
+   $$\int c d x=c x+C$$
+   
 - [X] Integration by parts
 
 $$\int uv \ \mathrm{dx}=u\int v \ \mathrm{dx}-\int \left(\dfrac{\mathrm{du}}{\mathrm{dx}}\int v \  \mathrm{dx}\right)\mathrm{dx}$$
