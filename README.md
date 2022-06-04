@@ -4,10 +4,20 @@ Frequently used mathematical formulae
 1. Common Integrals
    - Integrals of Rational and Irrational Functions
    $$\int x^{n} \mathrm{dx}=\frac{x^{n+1}}{n+1}+C$$
-   $$\int \frac{1}{x} \mathrm{dx}=\ln |x|+C $$
+   $$\int \frac{1}{x} \ \mathrm{dx}=\ln |x|+C $$
    $$\int c \ \mathrm{dx}=c x+C$$
    $$\int \frac{1}{1+x^{2}} \ \mathrm{dx}=\arctan x+C $$
    $$\int \frac{1}{\sqrt{1-x^{2}}} \ \mathrm{dx}=\arcsin x+C $$
+   
+   - Integrals of Trigonometric Functions
+   $$\int \sin x \ \mathrm{dx}=-\cos x+C$$
+   $$\int \cos x \ \mathrm{dx}=\sin x+C$$
+   $$\int \tan x \ \mathrm{dx}=\ln |\sec x|+C$$
+   $$\int \sec x \ \mathrm{dx}=\ln |\tan x+\sec x|+C$$
+   $$\int \sin ^{2} x \ \mathrm{dx}=\frac{1}{2}(x-\sin x \cos x)+C$$
+   $$\int \cos ^{2} x \ \mathrm{dx}=\frac{1}{2}(x+\sin x \cos x)+C$$
+   $$\int \tan ^{2} x \ \mathrm{dx}=\tan x-x+C $$
+   $$\int \sec ^{2} x \ \mathrm{dx}=\tan x+C $$
    
    - Integration by parts
 
