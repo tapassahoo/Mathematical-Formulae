@@ -6,6 +6,8 @@ Frequently used mathematical formulae
    $$\int x^{n} d x=\frac{x^{n+1}}{n+1}+C$$
    $$\int \frac{1}{x} d x=\ln |x|+C $$
    $$\int c d x=c x+C$$
+   $$\int \frac{1}{1+x^{2}} d x=\arctan x+C $$
+   $$\int \frac{1}{\sqrt{1-x^{2}}} d x=\arcsin x+C $$
    
 - [X] Integration by parts
 
