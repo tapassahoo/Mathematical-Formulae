@@ -19,6 +19,15 @@ Frequently used mathematical formulae
    $$\int \tan ^{2} x \ \mathrm{dx}=\tan x-x+C $$
    $$\int \sec ^{2} x \ \mathrm{dx}=\tan x+C $$
    
+   - Integrals of Exponential and Logarithmic Functions
+   $$\int \ln x d x=x \ln x-x+C $$
+   $$\int x^{n} \ln x d x=\frac{x^{n+1}}{n+1} \ln x-\frac{x^{n+1}}{(n+1)^{2}}+C $$
+   $$\int e^{x} d x=e^{x}+C$$
+   $$\int b^{x} d x=\frac{b^{x}}{\ln b}+C$$
+   $$\int \sinh x d x=\cosh x+C $$
+   $$\int \cosh x d x=\sinh x+C $$
+
+   
    - Integration by parts
 
 $$\int uv \ \mathrm{dx}=u\int v \ \mathrm{dx}-\int \left(\dfrac{\mathrm{du}}{\mathrm{dx}}\int v \  \mathrm{dx}\right)\mathrm{dx}$$
