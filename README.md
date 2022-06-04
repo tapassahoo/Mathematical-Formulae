@@ -1,15 +1,15 @@
 
 Frequently used mathematical formulae
 ----
-
-1. Integrals of Rational and Irrational Functions
+1. Common Integrals
+   - Integrals of Rational and Irrational Functions
    $$\int x^{n} \mathrm{dx}=\frac{x^{n+1}}{n+1}+C$$
    $$\int \frac{1}{x} \mathrm{dx}=\ln |x|+C $$
    $$\int c \ \mathrm{dx}=c x+C$$
    $$\int \frac{1}{1+x^{2}} \ \mathrm{dx}=\arctan x+C $$
    $$\int \frac{1}{\sqrt{1-x^{2}}} \ \mathrm{dx}=\arcsin x+C $$
    
-- [X] Integration by parts
+   - Integration by parts
 
 $$\int uv \ \mathrm{dx}=u\int v \ \mathrm{dx}-\int \left(\dfrac{\mathrm{du}}{\mathrm{dx}}\int v \  \mathrm{dx}\right)\mathrm{dx}$$
 
