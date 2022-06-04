@@ -20,17 +20,15 @@ Frequently used mathematical formulae
    $$\int \sec ^{2} x \ \mathrm{dx}=\tan x+C $$
    
    - Integrals of Exponential and Logarithmic Functions
-   $$\int \ln x d x=x \ln x-x+C $$
-   $$\int x^{n} \ln x d x=\frac{x^{n+1}}{n+1} \ln x-\frac{x^{n+1}}{(n+1)^{2}}+C $$
-   $$\int e^{x} d x=e^{x}+C$$
-   $$\int b^{x} d x=\frac{b^{x}}{\ln b}+C$$
-   $$\int \sinh x d x=\cosh x+C $$
-   $$\int \cosh x d x=\sinh x+C $$
+   $$\int \ln x \ \mathrm{dx}=x \ln x-x+C $$
+   $$\int x^{n} \ln x \ \mathrm{dx}=\frac{x^{n+1}}{n+1} \ln x-\frac{x^{n+1}}{(n+1)^{2}}+C $$
+   $$\int e^{x} \ \mathrm{dx}=e^{x}+C $$
+   $$\int b^{x} \ \mathrm{dx}=\frac{b^{x}}{\ln b}+C $$
+   $$\int \sinh x \ \mathrm{dx}=\cosh x+C $$
+   $$\int \cosh x \ \mathrm{dx}=\sinh x+C $$
 
-   
    - Integration by parts
-
-$$\int uv \ \mathrm{dx}=u\int v \ \mathrm{dx}-\int \left(\dfrac{\mathrm{du}}{\mathrm{dx}}\int v \  \mathrm{dx}\right)\mathrm{dx}$$
+   $$\int uv \ \mathrm{dx}=u\int v \ \mathrm{dx}-\int \left(\dfrac{\mathrm{du}}{\mathrm{dx}}\int v \  \mathrm{dx}\right)\mathrm{dx}$$
 
 - [X] Gaussian integral
 
